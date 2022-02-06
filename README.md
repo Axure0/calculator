@@ -5,7 +5,7 @@ A Calculator Coded in HTML, CSS and JS
 
 - [Deploying Website](/index.js)
 
-- [HTML Code](/html)
+- [HTML Code](/html/web.html)
 
 - [CSS Code](/static/styles.css)
 
