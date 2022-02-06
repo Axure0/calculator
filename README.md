@@ -10,3 +10,9 @@ A Calculator Coded in HTML, CSS and JS
 - [CSS Code](/static/styles.css)
 
 - [JavaScript Code](/static/script.js)
+
+## To Do
+
+- Adding Extra Info to Help People Understand the Code
+- Better Formatting
+- Better Font
