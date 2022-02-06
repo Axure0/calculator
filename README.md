@@ -1,2 +1,2 @@
 # calculator
-A calculator coded in HTML and JS
+A Calculator Coded in HTML and JS
