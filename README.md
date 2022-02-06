@@ -3,8 +3,10 @@ A Calculator Coded in HTML, CSS and JS
 
 ## Table of Contents
 
-- (HTML Code)[]
+- [Deploying Website](calculator/index.js)
 
-- (JavaScript Code)[]
+- [HTML Code]()
 
-- (Deploying Website)[calculator/index.js]
+- [CSS Code]()
+
+- [JavaScript Code]()
