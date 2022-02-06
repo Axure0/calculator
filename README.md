@@ -1,8 +1,8 @@
 # Calculator
 A Calculator Coded in HTML, CSS and JS
 
-(HTML Code)[]
+- (HTML Code)[]
 
-(JavaScript Code)[]
+- (JavaScript Code)[]
 
-(Deploying Website)[https://github.com/Axure0/calculator/blob/main/index.js]
+- (Deploying Website)[calculator/index.js]
