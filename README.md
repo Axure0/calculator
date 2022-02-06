@@ -3,7 +3,7 @@ A Calculator Coded in HTML, CSS and JS
 
 ## Table of Contents
 
-- [Deploying Website](main/index.js)
+- [Deploying Website](/index.js)
 
 - [HTML Code]()
 
