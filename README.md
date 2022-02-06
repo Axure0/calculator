@@ -1,5 +1,5 @@
 # Calculator
-A Calculator Coded in HTML and JS
+A Calculator Coded in HTML, CSS and JS
 
 (HTML Code)[]
 
