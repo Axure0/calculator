@@ -5,8 +5,8 @@ A Calculator Coded in HTML, CSS and JS
 
 - [Deploying Website](/index.js)
 
-- [HTML Code]()
+- [HTML Code](/html)
 
-- [CSS Code]()
+- [CSS Code](/static/styles.css)
 
-- [JavaScript Code]()
+- [JavaScript Code](/static/script.js)
